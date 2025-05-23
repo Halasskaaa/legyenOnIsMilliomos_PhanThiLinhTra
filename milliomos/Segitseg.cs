@@ -8,5 +8,6 @@ namespace milliomos
 {
 	internal class Segitseg
 	{
+
 	}
 }

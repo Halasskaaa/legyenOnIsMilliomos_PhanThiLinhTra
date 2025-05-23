@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace milliomos
 {
-	internal class Jatek
+	internal class Valaszok
 	{
 
 	}
